@@ -10,8 +10,6 @@ html {
   font-family: 'Helvetica Neue', Helvetica, arial, sans-serif;
   color: #111;
   padding: 24px 24px 0 24px;
-  background: #44c8f5;
-  color: white;
 }
 
 body{
@@ -27,7 +25,10 @@ body{
  */
 
 ::-moz-selection {
+  background: #44c8f5;
+  color: white;
 }
+
 
 ::selection {
   background: #44c8f5;
